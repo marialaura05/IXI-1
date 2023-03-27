@@ -1,1 +1,3 @@
-# MARIAS-1
+# IXI-1
+Maria Laura, Emanuel, Winicius, Maria Eduarda.
+
